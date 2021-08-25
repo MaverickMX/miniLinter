@@ -34,7 +34,7 @@ Intermediate JavaScript knowledge
     + The sentence count
     + The number of times each overused word appears
 
-You could choose to simply log them one by one or, for a challenge, create a function that logs all of them with some formatting.
+    You could choose to simply log them one by one or, for a challenge, create a function that logs all of them with some formatting.
 7. Now, log the `betterWords` array to the console as a single string.
 8. Congratulations! You’ve improved the original paragraph and given the user some important information about his or her work. Think about ways in which you can extend this project, potentially by using other JavaScript knowledge you have.
     Here are some ideas:
@@ -42,3 +42,7 @@ You could choose to simply log them one by one or, for a challenge, create a fun
     + For the overused words, remove it every other time it appears.
     + Write a function that finds the word that appears the greatest number of times.
     + Replaced overused words with something else.
+
+### Sources
+
+This is a project from my online course codecademy.com
